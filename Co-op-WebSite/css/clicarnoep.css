@@ -28,9 +28,9 @@ a{
 }
 
 #logo{ 
-    top: -65px;
-    left: -0px;
-    position: absolute;
+    top: -70px;
+    position: relative;
+    margin: -120px;
 }
 .icons{
     position: relative;
@@ -49,47 +49,41 @@ a{
     margin-left: 100px;
     
 }
-.pesquisar{
-    border-radius: 10px;
-    height: 30px;
-    width: 350px;
-    padding: 10px;
-    margin-top: -20px;  
+
+main{
+    display: flex;
 }
 .container{
     display: flex;
-    gap: 40px;
+    flex-direction: column;
+    height: 700px;
+    width: 1600px;
+    background-color: #000000;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    border: 1px solid white;
+    border-radius: 3px;
 }
 .container img{
-    width: 250px;
+    height: 100px;
 }
-.container .info{
+.container .navbar{
+position: absolute;
+margin-top: 650px;
+}
+.navbar{
     display: flex;
-    flex-direction: column;
-}
-span{
-    font-weight: 900;
-}
-.episodios{
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    overflow-x: hidden;
-    height: 300px;
-}
-h1{
-    text-align: center;
-}
-.episodios a{
-    display: flex;
+    width: 1000px;
+    height: 70px;
+    background-color: rgb(43, 42, 42);
+    justify-content: start;
+    border-radius: 3px;
     align-items: center;
-    padding: 10px 20px;
-    background-color: #0037A8;
+    border: 1px solid white;
 }
-.pages{
-    margin-top: 40px;
-    text-align: center;
-}
-footer{
-    text-align: center;
+.navbar img{
+    height: 40px;
+    margin-right: 30px;
+    justify-content: center;
 }
