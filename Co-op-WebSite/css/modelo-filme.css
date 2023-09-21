@@ -57,8 +57,8 @@ h2{
 .grid{
     display: grid;
     grid-template-columns: auto auto auto auto;
-    gap: 100px;
-    margin-left: -200px;
+    gap: 50px;
+    justify-content: center;
 }
 .filmes{  
     text-align: center;
