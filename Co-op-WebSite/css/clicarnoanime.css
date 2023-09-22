@@ -83,12 +83,19 @@ h1{
 .episodios a{
     display: flex;
     align-items: center;
+    border-radius: 10px;
     padding: 10px 20px;
-    background-color: #0037A8;
+    background-color: #1949aa80;
 }
-.pages{
-    margin-top: 40px;
-    text-align: center;
+::-webkit-scrollbar{
+    width: 12px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #ffffff;
 }
 footer{
     text-align: center;

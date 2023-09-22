@@ -38,6 +38,11 @@ a{
     height: 25px;
     
 }
+.flex div:nth-child(5) img{
+    position: relative;
+    left: -45px;
+    top: 10px;
+}
 .flex{
     justify-content: center;
     display: flex;
