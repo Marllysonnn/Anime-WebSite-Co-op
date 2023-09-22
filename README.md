@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Projeto Anime-Site</h1>
+.<h1 align="center">:file_cabinet: Projeto Anime-Site</h1>
  
 <div style="overflow: auto;">
 
@@ -61,5 +61,14 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/GabrielFilipeD3v">
+        <img src="https://github.com/GabrielFilipeD3v" width="100px;" alt="Rodrigo"/><br>
+        <sub>
+          <b>Gabriel Filipe</b>
+        </sub>
+      </a>
+    </td>
+ 
   </tr>
 </table>
