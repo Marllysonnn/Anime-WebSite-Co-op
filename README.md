@@ -9,12 +9,12 @@
 
 ## :memo: Descrição:
 
-<p>Projeto feito para divertimento e treino dos colaboradores, principalmente para fixar e aprender mais a usar ferramentas como github e git</p>
+<p>Projeto feito para divertimento e treino dos colaboradores, principalmente para fixar e aprender mais a usar ferramentas como github e git.</p>
 
 ## :wrench: Tecnologias utilizadas
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;<br>
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=flutter&logoColor=0175C2)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=0175C2)&nbsp;<br>
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=0175C2)&nbsp;
 
 ## ⚠️ OBS:
 
@@ -40,7 +40,7 @@
   $ Clique no Live server com a pasta aberta
 ```
 ##  Status do projeto
-# *Versão beta*
+*Versão beta*
 
 ## :handshake: Colaboradores
 <table>
