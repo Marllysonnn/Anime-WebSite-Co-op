@@ -47,7 +47,11 @@ a{
     gap: 20px;
     margin: 30px;
     margin-left: 100px;
-    
+}
+.flex div:nth-child(5) img{
+    position: relative;
+    left: -45px;
+    top: 10px;
 }
 .pesquisar{
     border-radius: 10px;
