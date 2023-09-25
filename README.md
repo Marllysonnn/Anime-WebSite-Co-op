@@ -46,18 +46,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="http://github.com/KayoLeanndro">
-        <img src="https://github.com/KayoLeanndro.png" width="100px;" alt="Kayo Leanndro"/><br>
-        <sub>
-          <b>Kayo Leanndro</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Marllysonnn">
         <img src="https://github.com/Marllysonnn.png" width="100px;" alt="Rodrigo"/><br>
         <sub>
           <b>Marllyson Alves</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="http://github.com/KayoLeanndro">
+        <img src="https://github.com/KayoLeanndro.png" width="100px;" alt="Kayo Leanndro"/><br>
+        <sub>
+          <b>Kayo Leanndro</b>
         </sub>
       </a>
     </td>
